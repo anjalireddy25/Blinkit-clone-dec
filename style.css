@@ -86,17 +86,18 @@ nav{
 }
 
 #section1{
-   width:80vw;
+   width:90vw;
    margin:auto;
    margin-top:15px;
 }
 #section1-image{
-    width:80vw;
+    width:90vw;
+    /* margin:auto; */
    
 }
 #section2-cards{
     display:flex;
-    width:80vw;
+    width:85vw;
     overflow:hidden;
     /* display:block-inline; */ 
     margin:auto;
@@ -212,8 +213,6 @@ nav{
    position:sticky;
    left:0px;
 }
-
-
 #footer-section-1{
     display:flex;
     justify-content: space-between;
